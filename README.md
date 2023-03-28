@@ -1,4 +1,4 @@
-# Dictionary-Application-using-Django
+# Dictionary-Application-using-API
 
 
 # Dictionary Application using API
